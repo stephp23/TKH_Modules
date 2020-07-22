@@ -1,0 +1,49 @@
+Stephanie Pena
+
+In your own words, what is a computer really doing whenever you type a letter on a keyboard?
+(150 words max)
+When we type a letter on a keyboard, it is a physical manifestation and an action that triggers and signals the computer to jumpstart a series of functions and actions, based on the initial key that was pressed, and the signal that pressing motion gave to the computer. These actions will occur one after the other, and sometimes simultaneously, and at very high frequencies per time  Eventually, these actions will yield an ultimate result, due to that initial click on the keyboard. The resulting letter on the screen would be the result, after the computer received the first signal of the key being pressed, finding a meaning for the key pressing action, gathering saved information for the key pressing action, and then using its previous knowledge of that key pressing action to render the shapes and colors on the pixels that will eventually be seen on the screen. 
+
+
+In your own words, how do computers use input and output to create experiences? (250 words
+max)
+Computers use information that it gathers from an input (such as in pressing the keyboard), and makes several decisions and actions based on that input. The computer waits for incoming information, an input, to come in, in order to decide which tasks to perform next. For example, if you are shopping and the cashier scans the barcode of shoes you want to buy, the computer will have an input of information from that barcode that was scanned. Consequently, the computer will use the information in the barcode to retrieve information and to decide that it is a pair of shoes, and also at what the retail price of the shoes are. The retail price will appear on the screen at the register, being the output of that initial scan. This results in the customer and the cashier being able to see the retail price. Hence, the initial input of data and the consequent output have created the shopping experience and provided the answers to the interaction between the customer and cashier (to know to inquire the price, finding out the price, and eventually purchasing the shoes). 
+
+
+Explain why software products are essentially “infinitely reproducible nothings.” (150 words max)
+Software products are essentially “infinitely reproducible nothings” due to the fact that once they are created, there is no longer a large investment to repeatedly reproduce that product. Once software is completed, it could be reproduced as many times as needed, without needing to start from scratch or make the same initial investment and build physical hardware to have it run each time. Since completed software can be reproduced multiple times and distributed with ease, it is essentially an unlimited source of income, as long as people are willing to pay for it. It is a commodity that is reproducible and can be easily delivered, without limitations such as distance or transportation costs, unlike many other resources and products.
+
+
+Explain in your own words how code becomes software. (150 words max)
+Code begins as lines dictating the computer to follow certain commands in a specific order, based on conditions and consequent input data. It can start off written to execute simpler commands, in an ordered sequence. Code becomes software when the simple command lines now make up a more complicated series of interconnected functions and commands that have to take into consideration multiple commands, inputs, and conditions simultaneously, as there is a constant input of new data that will influence the way the code runs, what gets executed, and what the resulting output would be.
+
+
+Explain “algorithms” in your own words. (150 words max)
+Algorithms are a series of steps that have been developed to solve a problem. Once the problem is identified, the same sequence of steps can be taken to solve the same type of problem. An algorithm can be used to find the shortest distance between two points, no matter if those points are two people standing on opposite sides of the city or the two points are power outages in a city. The baseline problem is finding the shortest distance between them, so the same algorithm could be used to find the answer in both scenarios. The algorithm is the sequence of steps that will be executed after there is an identification of the same baseline problem.
+
+
+Explain the DRY principle. (100 words max)
+The DRY principle stands for Don’t Repeat Yourself. It is a generalization that states that the code you write should not be repetitive and redundant. Code should be efficient by naming things and writing functions once, in such a way that if those functions need to repeat themselves in the process, the code would account for that and have it repeat on its own. The code should already account for possible repetitions from the beginning. Probably utilizing functions with loops and conditional statements to repeat steps, without having to manually code for those additional steps each time.  
+
+
+In your own words, what is object-oriented programming? (100 words max)
+Object-oriented programming is a type of coding that emphasizes the need to group, name, and categorize functions, based on the data that will be affected by the code. The categorization of functions is based on their relatability to certain types of data with similar attributes, not just anything randomly. It allows functions and code to be organized based on the types of information it is meant to act on, instead of it applying to just any data, which can cause issues in the execution of the code later on when different types of data are introduced.
+
+
+In your own words explain data and how it relates to code. (100 Words max)
+Code is written to execute some amount of manipulation over some amount of information. This influx of information used by the code is data. The way the code is designed and executed will be based on the type of data that is classified as the input to be fed into the code. The manipulation of the data will eventually yield a resulting output, which was a result of specific functions that were used based on the nature of the initial input data that was acquired. Output results in additional data, that can be further analyzed and manipulated by more code. 
+
+
+What is a framework? (150 words max)
+A framework is a pre-packaged set of tools, including libraries, that can be used as a structure to build an application or website. The set of tools are geared towards the specific type of project (application/website) you are trying to build and serves as a guide for building the structures necessary to make the application/website functional. The framework is useful since its libraries have previously been shown to work for the basic creation of an application or website. Using existing libraries in a framework allows programmers to add on to existing, for customization purposes, without having to write the entire code from scratch. Therefore, optimizing the coding aspect and making the building process more efficient. 
+
+
+What is debugging? (150 words max)
+Debugging is the act of constantly looking for and fixing missteps in a written code. If the code fails, an error message or crashing of the stack will signal there is a problem with your code. The next logical step is to look for the mistake in the code (syntax, problematic endless loops). However, debugging is more than just looking for a mistake when an error is obvious. With programming, one has to anticipate that there will be errors in syntax or function building. Debugging includes analyzing code to reduce redundancy, and looking for possible future faults and errors that can come up in the future, but have not shown up as issues yet.
+
+ 
+Now, with more of an understanding of what code is, why do you want to learn how to code?
+(500 words max)
+Coding is a skill that would open many doors and give me a widespread amount of possibilities for work and self-growth. Having a better sense of what coding entails and the numerous ways in which coding languages can be used, makes me curious as to what I can do and accomplish with a new set of skills in coding. The creativity and critical thinking of troubleshooting and coming up with alternative ways of getting similar results speaks to me, as it is a similar way of thinking as in experimental science (my previous background). It can be discouraging to see how there are so many issues in the world. However, we live in a world where everyone and everything is interconnected by an overlaying factor, technology. Technology is driven by programmers and written code. The best way to contribute and be proactive at tackling the endless issues at hand will be to use the tool that connects and unifies everything, technology. Constant and common threads in coding are collaboration and innovation, again similar to what is done in scientific fields. From programmers sharing frameworks, code, and helping each other out with coding issues. To constant learning of new features, new libraries, and other coding languages. Coding involves a lot of moving parts centered around reinvention. Collaboration between programmers (with possibly different coding background), in order to drive a project forward also makes learning and innovation possible. These basic fundamentals make it so coding is always involving and constantly providing new answers to questions. The ability to code would give me the skills and ability to step up and proactively offer up analysis and solutions to problems in many varying fields.
+
+
